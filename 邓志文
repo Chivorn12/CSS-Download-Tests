@@ -1,0 +1,5 @@
+[光照强度] ----
+               |
+           [PV Array] ---- [Boost Converter] ---- [Inverter] ---- [Grid]
+               |
+    [温度] ----
